@@ -52,7 +52,10 @@ All design files, screen previews, and prototypes are organized inside this repo
 If you would like to review more of my work or discuss these projects, feel free to reach out:
 
 Designed by: Sakthi Poornima
+
 Email: sakthipoornimaparthiban@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/sakthi-poornima-14a889305/?profileId=ACoAAE3n9YoB8IQVYldNHx8twtjODyb8fA5UvYc
+
+
 Portfolio: https://www.behance.net/sakthipparthib
